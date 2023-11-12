@@ -1,0 +1,14 @@
+
+P
+java:S1141{"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+p	java:S116("[Rename this field "$CONNECTION_LOCK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À„¬Ì
+“
+java:S1130J"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(Ý•è ýÿÿÿÿ
+h
+java:S3776e"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(“–ýþ
+”
+java:S1130£"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(ÁÐ÷”øÿÿÿÿ
+u
+java:S2142º"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+J
+java:S1068("4Remove this unused "$CONNECTION_LOCK" private field.(À„¬Ì
